@@ -1,0 +1,4 @@
+# Keep Sublime Text artifacts out of the repo; not all the team uses Sublime
+*.sublime-workspace
+*.sublime-project
+*.pyc
